@@ -1,0 +1,496 @@
+{
+  "AGT-10238": {
+    "firstName": "Sakshi",
+    "lastName": "Joshi",
+    "email": "sakshi.joshi@example.com",
+    "phone": "+91-9090901122",
+    "salesDetails": {
+      "regionName": "Delhi Connaught Place",
+      "targetAmount": 100000,
+      "clients": [
+        {
+          "clientId": "CL-5401",
+          "name": "Amit Verma",
+          "policyNumber": "POL-2024-6201",
+          "policySoldDate": "06-10-2025",
+          "policyExpiryDate": "06-09-2027",
+          "policyType": "Health",
+          "premiumAmount": 20000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5402",
+          "name": "Nikita S",
+          "policyNumber": "POL-2024-6205",
+          "policySoldDate": "06-15-2025",
+          "policyExpiryDate": "06-14-2028",
+          "policyType": "Life",
+          "premiumAmount": 55000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5403",
+          "name": "Rahul Mehta",
+          "policyNumber": "POL-2024-6210",
+          "policySoldDate": "07-01-2025",
+          "policyExpiryDate": "06-30-2027",
+          "policyType": "Motor",
+          "premiumAmount": 8500,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10239": {
+    "firstName": "Ankit",
+    "lastName": "Sharma",
+    "email": "ankit.sharma@example.com",
+    "phone": "+91-9876501234",
+    "salesDetails": {
+      "regionName": "Mumbai Andheri East",
+      "targetAmount": 150000,
+      "clients": [
+        {
+          "clientId": "CL-5501",
+          "name": "Karan Desai",
+          "policyNumber": "POL-2024-6301",
+          "policySoldDate": "06-20-2025",
+          "policyExpiryDate": "06-19-2028",
+          "policyType": "Life",
+          "premiumAmount": 60000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5502",
+          "name": "Mahima Patel",
+          "policyNumber": "POL-2024-6303",
+          "policySoldDate": "06-22-2025",
+          "policyExpiryDate": "06-21-2027",
+          "policyType": "Health",
+          "premiumAmount": 30000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5503",
+          "name": "Deepak Shah",
+          "policyNumber": "POL-2024-6308",
+          "policySoldDate": "07-02-2025",
+          "policyExpiryDate": "07-01-2027",
+          "policyType": "Motor",
+          "premiumAmount": 14500,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5504",
+          "name": "Riya Jain",
+          "policyNumber": "POL-2024-6312",
+          "policySoldDate": "07-10-2025",
+          "policyExpiryDate": "07-09-2028",
+          "policyType": "Life",
+          "premiumAmount": 70000,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10240": {
+    "firstName": "Manoj",
+    "lastName": "Kulkarni",
+    "email": "manoj.kulkarni@example.com",
+    "phone": "+91-9988776655",
+    "salesDetails": {
+      "regionName": "Bangalore MG Road",
+      "targetAmount": 120000,
+      "clients": [
+        {
+          "clientId": "CL-5601",
+          "name": "Prakash Hegde",
+          "policyNumber": "POL-2024-6402",
+          "policySoldDate": "06-12-2025",
+          "policyExpiryDate": "06-11-2028",
+          "policyType": "Life",
+          "premiumAmount": 52000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5602",
+          "name": "Shruti Rao",
+          "policyNumber": "POL-2024-6406",
+          "policySoldDate": "07-05-2025",
+          "policyExpiryDate": "07-04-2027",
+          "policyType": "Health",
+          "premiumAmount": 18500,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5603",
+          "name": "Nitin Gowda",
+          "policyNumber": "POL-2024-6409",
+          "policySoldDate": "07-14-2025",
+          "policyExpiryDate": "07-13-2027",
+          "policyType": "Motor",
+          "premiumAmount": 13000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5604",
+          "name": "Savitha K",
+          "policyNumber": "POL-2024-6414",
+          "policySoldDate": "07-18-2025",
+          "policyExpiryDate": "07-17-2028",
+          "policyType": "Life",
+          "premiumAmount": 68000,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10241": {
+    "firstName": "Harini",
+    "lastName": "Ravi",
+    "email": "harini.ravi@example.com",
+    "phone": "+91-9123456780",
+    "salesDetails": {
+      "regionName": "Chennai T Nagar",
+      "targetAmount": 130000,
+      "clients": [
+        {
+          "clientId": "CL-5701",
+          "name": "Arvind Swamy",
+          "policyNumber": "POL-2024-6501",
+          "policySoldDate": "07-02-2025",
+          "policyExpiryDate": "07-01-2027",
+          "policyType": "Life",
+          "premiumAmount": 75000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5702",
+          "name": "Malini B",
+          "policyNumber": "POL-2024-6503",
+          "policySoldDate": "07-08-2025",
+          "policyExpiryDate": "07-07-2028",
+          "policyType": "Health",
+          "premiumAmount": 16000,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10242": {
+    "firstName": "Rohit",
+    "lastName": "Saxena",
+    "email": "rohit.saxena@example.com",
+    "phone": "+91-9753124680",
+    "salesDetails": {
+      "regionName": "Hyderabad Hitech City",
+      "targetAmount": 140000,
+      "clients": [
+        {
+          "clientId": "CL-5801",
+          "name": "Kavya R",
+          "policyNumber": "POL-2024-6601",
+          "policySoldDate": "07-15-2025",
+          "policyExpiryDate": "07-14-2028",
+          "policyType": "Life",
+          "premiumAmount": 63000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5802",
+          "name": "Aditya Mohan",
+          "policyNumber": "POL-2024-6603",
+          "policySoldDate": "07-21-2025",
+          "policyExpiryDate": "07-20-2027",
+          "policyType": "Motor",
+          "premiumAmount": 12000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5803",
+          "name": "Sneha D",
+          "policyNumber": "POL-2024-6609",
+          "policySoldDate": "08-01-2025",
+          "policyExpiryDate": "07-31-2027",
+          "policyType": "Health",
+          "premiumAmount": 21000,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10243": {
+    "firstName": "Neha",
+    "lastName": "Kapoor",
+    "email": "neha.kapoor@example.com",
+    "phone": "+91-9234567812",
+    "salesDetails": {
+      "regionName": "Pune Hinjewadi",
+      "targetAmount": 110000,
+      "clients": [
+        {
+          "clientId": "CL-5901",
+          "name": "Tarun A",
+          "policyNumber": "POL-2024-6701",
+          "policySoldDate": "07-05-2025",
+          "policyExpiryDate": "07-04-2028",
+          "policyType": "Life",
+          "premiumAmount": 45000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5902",
+          "name": "Shraddha S",
+          "policyNumber": "POL-2024-6704",
+          "policySoldDate": "07-18-2025",
+          "policyExpiryDate": "07-17-2027",
+          "policyType": "Health",
+          "premiumAmount": 17000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5903",
+          "name": "Parth M",
+          "policyNumber": "POL-2024-6708",
+          "policySoldDate": "08-02-2025",
+          "policyExpiryDate": "08-01-2028",
+          "policyType": "Motor",
+          "premiumAmount": 12500,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10244": {
+    "firstName": "Jay",
+    "lastName": "Patel",
+    "email": "jay.patel@example.com",
+    "phone": "+91-9988552211",
+    "salesDetails": {
+      "regionName": "Ahmedabad SG Highway",
+      "targetAmount": 135000,
+      "clients": [
+        {
+          "clientId": "CL-6001",
+          "name": "Bhavik Shah",
+          "policyNumber": "POL-2024-6801",
+          "policySoldDate": "07-10-2025",
+          "policyExpiryDate": "07-09-2028",
+          "policyType": "Life",
+          "premiumAmount": 67000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-6002",
+          "name": "Mansi P",
+          "policyNumber": "POL-2024-6804",
+          "policySoldDate": "08-01-2025",
+          "policyExpiryDate": "07-31-2027",
+          "policyType": "Health",
+          "premiumAmount": 22000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-6003",
+          "name": "Dev R",
+          "policyNumber": "POL-2024-6812",
+          "policySoldDate": "08-04-2025",
+          "policyExpiryDate": "08-03-2028",
+          "policyType": "Motor",
+          "premiumAmount": 15000,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10245": {
+    "firstName": "Reena",
+    "lastName": "Menon",
+    "email": "reena.menon@example.com",
+    "phone": "+91-9988774400",
+    "salesDetails": {
+      "regionName": "Kochi Marine Drive",
+      "targetAmount": 90000,
+      "clients": [
+        {
+          "clientId": "CL-6101",
+          "name": "Joseph K",
+          "policyNumber": "POL-2024-6901",
+          "policySoldDate": "06-25-2025",
+          "policyExpiryDate": "06-24-2027",
+          "policyType": "Health",
+          "premiumAmount": 15500,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-6102",
+          "name": "Liya Mathew",
+          "policyNumber": "POL-2024-6904",
+          "policySoldDate": "07-12-2025",
+          "policyExpiryDate": "07-11-2028",
+          "policyType": "Life",
+          "premiumAmount": 47000,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10246": {
+    "firstName": "Suresh",
+    "lastName": "Pillai",
+    "email": "suresh.pillai@example.com",
+    "phone": "+91-9877612348",
+    "salesDetails": {
+      "regionName": "Thiruvananthapuram Technopark",
+      "targetAmount": 95000,
+      "clients": [
+        {
+          "clientId": "CL-6201",
+          "name": "Anand P",
+          "policyNumber": "POL-2024-7001",
+          "policySoldDate": "07-03-2025",
+          "policyExpiryDate": "07-02-2027",
+          "policyType": "Motor",
+          "premiumAmount": 9800,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-6202",
+          "name": "Diana Mathew",
+          "policyNumber": "POL-2024-7003",
+          "policySoldDate": "07-16-2025",
+          "policyExpiryDate": "07-15-2028",
+          "policyType": "Life",
+          "premiumAmount": 55000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-6203",
+          "name": "Midhun J",
+          "policyNumber": "POL-2024-7010",
+          "policySoldDate": "08-05-2025",
+          "policyExpiryDate": "08-04-2027",
+          "policyType": "Health",
+          "premiumAmount": 18500,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10247": {
+    "firstName": "Swati",
+    "lastName": "Bose",
+    "email": "swati.bose@example.com",
+    "phone": "+91-9234511122",
+    "salesDetails": {
+      "regionName": "Kolkata Park Street",
+      "targetAmount": 160000,
+      "clients": [
+        {
+          "clientId": "CL-6301",
+          "name": "Sudip Banerjee",
+          "policyNumber": "POL-2024-7101",
+          "policySoldDate": "07-06-2025",
+          "policyExpiryDate": "07-05-2028",
+          "policyType": "Life",
+          "premiumAmount": 80000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-6302",
+          "name": "Madhurima Sinha",
+          "policyNumber": "POL-2024-7105",
+          "policySoldDate": "07-22-2025",
+          "policyExpiryDate": "07-21-2027",
+          "policyType": "Health",
+          "premiumAmount": 26000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-6303",
+          "name": "Joy Mukherjee",
+          "policyNumber": "POL-2024-7110",
+          "policySoldDate": "08-10-2025",
+          "policyExpiryDate": "08-09-2027",
+          "policyType": "Motor",
+          "premiumAmount": 14000,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10248": {
+    "firstName": "Farhan",
+    "lastName": "Qureshi",
+    "email": "farhan.qureshi@example.com",
+    "phone": "+91-9000102030",
+    "salesDetails": {
+      "regionName": "Lucknow Hazratganj",
+      "targetAmount": 105000,
+      "clients": [
+        {
+          "clientId": "CL-6401",
+          "name": "Sameer A",
+          "policyNumber": "POL-2024-7201",
+          "policySoldDate": "06-20-2025",
+          "policyExpiryDate": "06-19-2027",
+          "policyType": "Motor",
+          "premiumAmount": 9900,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-6402",
+          "name": "Sana F",
+          "policyNumber": "POL-2024-7204",
+          "policySoldDate": "07-27-2025",
+          "policyExpiryDate": "07-26-2028",
+          "policyType": "Life",
+          "premiumAmount": 43000,
+          "status": "Active"
+        }
+      ]
+    }
+  },
+  "AGT-10234": {
+    "firstName": "Vikas",
+    "lastName": "Kumar",
+    "email": "vikas.kumar@example.com",
+    "phone": "+91-9876543210",
+    "salesDetails": {
+      "regionName": "Delhi",
+      "targetAmount": 100000,
+      "clients": [
+        {
+          "clientId": "CL-5001",
+          "name": "Amit Sharma",
+          "policyNumber": "POL-2024-5001",
+          "policySoldDate": "01-15-2025",
+          "policyExpiryDate": "01-14-2027",
+          "policyType": "Life",
+          "premiumAmount": 50000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5002",
+          "name": "Priya Singh",
+          "policyNumber": "POL-2024-5002",
+          "policySoldDate": "02-10-2025",
+          "policyExpiryDate": "02-09-2028",
+          "policyType": "Health",
+          "premiumAmount": 25000,
+          "status": "Active"
+        },
+        {
+          "clientId": "CL-5003",
+          "name": "Rajesh Verma",
+          "policyNumber": "POL-2024-5003",
+          "policySoldDate": "03-05-2025",
+          "policyExpiryDate": "03-04-2027",
+          "policyType": "Motor",
+          "premiumAmount": 15000,
+          "status": "Active"
+        }
+      ]
+    }
+  }
+}

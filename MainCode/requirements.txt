@@ -1,0 +1,8 @@
+nicegui
+langchain-openai
+langchain
+langchain-community
+httpx
+urllib3
+faiss-cpu
+tiktoken
