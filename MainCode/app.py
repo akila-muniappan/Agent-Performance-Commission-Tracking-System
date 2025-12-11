@@ -9,9 +9,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 client = httpx.Client(verify=False, timeout=None)
 
 llm = ChatOpenAI(
-    base_url="https://genailab.tcs.in",
-    model="azure/genailab-maas-gpt-4o-mini",
-    api_key="sk-Eyn8LNkX3vfKQf5CNAkFcw",
+    base_url="",//URL
+    model="",//Model ID
+    api_key="",//KEY
     http_client=client
 )
 
