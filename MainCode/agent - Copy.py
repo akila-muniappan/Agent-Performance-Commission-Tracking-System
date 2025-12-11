@@ -25,9 +25,9 @@ client = httpx.Client(verify=False, timeout=None)
 # Initialize the LLM
 
 llm = ChatOpenAI(
-    base_url="https://genailab.tcs.in",
-    model="azure/genailab-maas-gpt-4o-mini",
-    api_key="sk-Eyn8LNkX3vfKQf5CNAkFcw",
+    base_url="", //URL
+    model="", //MODEL URL
+    api_key="", //API KEY
     http_client=client
 )
 
@@ -103,3 +103,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
